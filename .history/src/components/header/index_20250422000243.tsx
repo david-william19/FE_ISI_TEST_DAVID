@@ -1,0 +1,9 @@
+import { Button } from "../ui";
+
+export function Header() {
+    return (
+        <header className="w-full p-5 flex justify-end rounded-b-lg bg-white">
+            <Button type="">logout</Button>
+        </header>
+    )
+}

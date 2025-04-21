@@ -1,0 +1,9 @@
+export default function LoginPage() {
+  return (
+    <div className="w-full h-screen bg-[#6DE1D2]">
+        <div className="max-w-[100px] rounded-lg p-">
+
+        </div>
+    </div>
+  )
+}
